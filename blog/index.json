@@ -1,0 +1,56 @@
+{
+  "links": [
+    {
+      "title": "Twitter",
+      "icon": "twitter",
+      "url": "https://twitter.com/unclexo"
+    },
+    {
+      "title": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://bd.linkedin.com/in/unclexo"
+    },
+    {
+      "title": "stack<strong>overflow</strong>",
+      "icon": "stackoverflow",
+      "url": "https://stackoverflow.com/users/7935051/unclexo"
+    },
+    {
+      "title": "Medium",
+      "icon": "medium",
+      "url": "https://medium.com/@unclexo"
+    },
+    {
+      "title": "Github",
+      "icon": "github",
+      "url": "https://github.com/unclexo"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Adapter Pattern — Tackling incompatible interfaces!",
+      "description": "Today we are going to talk about the Adapter Design Pattern. This is one of the most used software design patterns. We will explore when to use this pattern and how it helps us tackle classes and objects that have...",
+      "url": "https://medium.com/geekculture/adapter-pattern-tackling-incompatible-interfaces-dadd34335e1"
+    },
+    {
+      "title": "Factory Method Pattern vs Simple Factory",
+      "description": "I have seen confusion between developers about simple factory and factory method pattern. Hence I am writing this article. I hope this article will make the confusion clear. We will see what is the difference...",
+      "url": "https://medium.com/swlh/factory-method-pattern-vs-simple-factory-7dcf70e6321a"
+    },
+    {
+      "title": "Factory method - Dealing with object creation and conditional switch or if-else nested statements",
+      "description": "In this article, we will discuss the Factory Method design pattern. We will know why we need the design pattern, how the pattern solves specific...",
+      "url": "https://medium.com/@unclexo/factory-method-dealing-with-object-creation-and-conditional-switch-or-if-else-nested-statements-2ea9956fd671"
+    },
+    {
+      "title": "DIP: The Dependency-Inversion Principle",
+      "description": "DIP stands for Dependency Inversion Principle. It is one of the principles of Object-Oriented Design. Robert Cecil Martin¹ (widely known as Uncle Bob) introduces a number of principles in his famous book: Agile...",
+      "url": "https://medium.com/@unclexo/dip-dependency-inversion-principle-77ef85e6f656"
+    },
+    {
+      "title": "ISP: The Interface Segregation Principle",
+      "description": "ISP stands for Interface Segregation Principle. It is one of the principles of Object-Oriented Design. Robert Cecil Martin¹ (widely known as Uncle Bob) introduces a number of principles in his famous book: Agile...",
+      "url": "https://medium.com/swlh/isp-the-interface-segregation-principle-a3416f3ac8f5"
+    }
+  ]
+}
