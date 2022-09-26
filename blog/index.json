@@ -28,7 +28,7 @@
       "url": "https://github.com/unclexo"
     }
   ],
-  "posts": [
+  "articles": [
     {
       "title": "Adapter Pattern — Tackling incompatible interfaces!",
       "description": "Today we are going to talk about the Adapter Design Pattern. This is one of the most used software design patterns. We will explore when to use this pattern and how it helps us tackle classes and objects that have...",
@@ -46,12 +46,12 @@
     },
     {
       "title": "DIP: The Dependency-Inversion Principle",
-      "description": "DIP stands for Dependency Inversion Principle. It is one of the principles of Object-Oriented Design. Robert Cecil Martin¹ (widely known as Uncle Bob) introduces a number of principles in his famous book: Agile...",
+      "description": "DIP stands for Dependency Inversion Principle. It is one of the principles of Object-Oriented Design...",
       "url": "https://medium.com/@unclexo/dip-dependency-inversion-principle-77ef85e6f656"
     },
     {
       "title": "ISP: The Interface Segregation Principle",
-      "description": "ISP stands for Interface Segregation Principle. It is one of the principles of Object-Oriented Design. Robert Cecil Martin¹ (widely known as Uncle Bob) introduces a number of principles in his famous book: Agile...",
+      "description": "ISP stands for Interface Segregation Principle. It is one of the principles of Object-Oriented Design...",
       "url": "https://medium.com/swlh/isp-the-interface-segregation-principle-a3416f3ac8f5"
     }
   ]
