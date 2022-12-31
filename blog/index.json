@@ -34,8 +34,13 @@
   ],
   "articles": [
     {
+      "title": "Chain of Responsibility Pattern — Who are taking the responsibility?",
+      "description": "Learn how to pass an object along the chain of responsible objects to be handled with a real world example.",
+      "url": "https://medium.com/geekculture/chain-of-responsibility-pattern-who-are-taking-the-responsibility-70923b8219a2"
+    },
+    {
       "title": "Stop Using Constructors",
-      "description": "Do you use constructors to create objects of your classes? Stop doing that. Go through this article to see why?...",
+      "description": "Do you use constructors to create objects of your classes? Stop doing that. Go through this article to see why?",
       "url": "https://medium.com/geekculture/stop-using-constructors-5ae7c91e1502"
     },
     {
@@ -52,11 +57,6 @@
       "title": "Factory method - Dealing with object creation and conditional switch or if-else nested statements",
       "description": "In this article, we will discuss the Factory Method design pattern. We will know why we need the design pattern, how the pattern solves specific...",
       "url": "https://medium.com/@unclexo/factory-method-dealing-with-object-creation-and-conditional-switch-or-if-else-nested-statements-2ea9956fd671"
-    },
-    {
-      "title": "DIP: The Dependency-Inversion Principle",
-      "description": "DIP stands for Dependency Inversion Principle. It is one of the principles of Object-Oriented Design...",
-      "url": "https://medium.com/@unclexo/dip-dependency-inversion-principle-77ef85e6f656"
     }
   ]
 }
