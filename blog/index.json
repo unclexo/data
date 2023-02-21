@@ -34,6 +34,11 @@
   ],
   "articles": [
     {
+      "title": "Abstract Factory Pattern — Getting different look-and-feels",
+      "description": "Abstract away the process of object creation.",
+      "url": "https://medium.com/@unclexo/abstract-factory-pattern-getting-different-look-and-feels-cd38ecaa68a8"
+    },
+    {
       "title": "Chain of Responsibility Pattern — Who are taking the responsibility?",
       "description": "Learn how to pass an object along the chain of responsible objects to be handled with a real world example.",
       "url": "https://medium.com/geekculture/chain-of-responsibility-pattern-who-are-taking-the-responsibility-70923b8219a2"
@@ -52,11 +57,6 @@
       "title": "Factory Method Pattern vs Simple Factory",
       "description": "I have seen confusion between developers about simple factory and factory method pattern. Hence I am writing this article. I hope this article will make the confusion clear. We will see what is the difference...",
       "url": "https://medium.com/swlh/factory-method-pattern-vs-simple-factory-7dcf70e6321a"
-    },
-    {
-      "title": "Factory method - Dealing with object creation and conditional switch or if-else nested statements",
-      "description": "In this article, we will discuss the Factory Method design pattern. We will know why we need the design pattern, how the pattern solves specific...",
-      "url": "https://medium.com/@unclexo/factory-method-dealing-with-object-creation-and-conditional-switch-or-if-else-nested-statements-2ea9956fd671"
     }
   ]
 }
