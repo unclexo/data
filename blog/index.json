@@ -1,20 +1,15 @@
 {
   "welcomeMsg": "Welcome!",
-  "shortDesc": "To the tiny home of <a href=\"https://twitter.com/unclexo\" target=\"_blank\">#unclexo</a>",
+  "shortDesc": "To the tiny home of <a href=\"https://linkedin.com/in/unclexo\" target=\"_blank\">#unclexo</a>",
   "contact": {
     "phone": "+8801718839535",
     "email": "itsunclexo@gmail.com"
   },
   "links": [
     {
-      "title": "Twitter",
-      "icon": "twitter",
-      "url": "https://twitter.com/unclexo"
-    },
-    {
       "title": "LinkedIn",
       "icon": "linkedin",
-      "url": "https://bd.linkedin.com/in/unclexo"
+      "url": "https://linkedin.com/in/unclexo"
     },
     {
       "title": "stack<strong>overflow</strong>",
@@ -34,12 +29,17 @@
   ],
   "articles": [
     {
+      "title": "Create your own Promise in JavaScript",
+      "description": "Learn how JavaScript Promises run callbacks asynchronously by building your own.",
+      "url": "https://medium.com/@unclexo/create-your-own-promise-in-javascript-9d36a9266ee6"
+    },
+    {
       "title": "Abstract Factory Pattern — Getting different look-and-feels",
       "description": "Abstract away the process of object creation.",
       "url": "https://medium.com/@unclexo/abstract-factory-pattern-getting-different-look-and-feels-cd38ecaa68a8"
     },
     {
-      "title": "Chain of Responsibility Pattern — Who are taking the responsibility?",
+      "title": "Chain of Responsibility Pattern — Who are taking the responsibility?",
       "description": "Learn how to pass an object along the chain of responsible objects to be handled with a real world example.",
       "url": "https://medium.com/geekculture/chain-of-responsibility-pattern-who-are-taking-the-responsibility-70923b8219a2"
     },
@@ -52,11 +52,6 @@
       "title": "Adapter Pattern — Tackling incompatible interfaces!",
       "description": "Today we are going to talk about the Adapter Design Pattern. This is one of the most used software design patterns. We will explore when to use this pattern and how it helps us tackle classes and objects that have...",
       "url": "https://medium.com/geekculture/adapter-pattern-tackling-incompatible-interfaces-dadd34335e1"
-    },
-    {
-      "title": "Factory Method Pattern vs Simple Factory",
-      "description": "I have seen confusion between developers about simple factory and factory method pattern. Hence I am writing this article. I hope this article will make the confusion clear. We will see what is the difference...",
-      "url": "https://medium.com/swlh/factory-method-pattern-vs-simple-factory-7dcf70e6321a"
     }
   ]
 }
