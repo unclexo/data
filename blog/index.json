@@ -2,19 +2,14 @@
   "welcomeMsg": "Welcome!",
   "shortDesc": "To the tiny home of <a href=\"https://linkedin.com/in/unclexo\" target=\"_blank\">#unclexo</a>",
   "contact": {
-    "phone": "+8801718839535",
+    "phone": "+8801332609335",
     "email": "itsunclexo@gmail.com"
   },
   "links": [
     {
-      "title": "LinkedIn",
-      "icon": "linkedin",
-      "url": "https://linkedin.com/in/unclexo"
-    },
-    {
-      "title": "stack<strong>overflow</strong>",
-      "icon": "stackoverflow",
-      "url": "https://stackoverflow.com/users/7935051/unclexo"
+      "title": "Github",
+      "icon": "github",
+      "url": "https://github.com/unclexo"
     },
     {
       "title": "Medium",
@@ -22,12 +17,27 @@
       "url": "https://medium.com/@unclexo"
     },
     {
-      "title": "Github",
-      "icon": "github",
-      "url": "https://github.com/unclexo"
+      "title": "stack<strong>overflow</strong>",
+      "icon": "stackoverflow",
+      "url": "https://stackoverflow.com/users/7935051/unclexo"
     }
   ],
   "articles": [
+    {
+      "title": "How to Speed Up Your Node.js App with HTTP Compression",
+      "description": "A practical guide to reducing payload size and improving speed with built-in HTTP compression.",
+      "url": "https://medium.com/@unclexo/how-to-speed-up-your-node-js-app-with-http-compression-8294779189a0"
+    },
+    {
+      "title": "Create Your Own Middleware Application Using Chain of Responsibility",
+      "description": "Learn how to implement Middleware in Web Applications with Chain of Responsibility Pattern",
+      "url": "https://medium.com/@unclexo/create-your-own-middleware-application-using-chain-of-responsibility-4ea497caa717"
+    },
+    {
+      "title": "Create Your Own Logger Using Open-Closed Principle",
+      "description": "Learn how to build a Logger Application using the Open-Closed Principle for scalability and flexibility.",
+      "url": "https://medium.com/@unclexo/create-your-own-logger-using-open-closed-principle-15f6f72ed878"
+    },
     {
       "title": "Create your own Promise in JavaScript",
       "description": "Learn how JavaScript Promises run callbacks asynchronously by building your own.",
@@ -37,21 +47,6 @@
       "title": "Abstract Factory Pattern — Getting different look-and-feels",
       "description": "Abstract away the process of object creation.",
       "url": "https://medium.com/@unclexo/abstract-factory-pattern-getting-different-look-and-feels-cd38ecaa68a8"
-    },
-    {
-      "title": "Chain of Responsibility Pattern — Who are taking the responsibility?",
-      "description": "Learn how to pass an object along the chain of responsible objects to be handled with a real world example.",
-      "url": "https://medium.com/geekculture/chain-of-responsibility-pattern-who-are-taking-the-responsibility-70923b8219a2"
-    },
-    {
-      "title": "Stop Using Constructors",
-      "description": "Do you use constructors to create objects of your classes? Stop doing that. Go through this article to see why?",
-      "url": "https://medium.com/geekculture/stop-using-constructors-5ae7c91e1502"
-    },
-    {
-      "title": "Adapter Pattern — Tackling incompatible interfaces!",
-      "description": "Today we are going to talk about the Adapter Design Pattern. This is one of the most used software design patterns. We will explore when to use this pattern and how it helps us tackle classes and objects that have...",
-      "url": "https://medium.com/geekculture/adapter-pattern-tackling-incompatible-interfaces-dadd34335e1"
     }
   ]
 }
